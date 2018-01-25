@@ -9,7 +9,8 @@ It allows you to record transactions on-the-go and later import the data into Gn
 
 Accounts            |  Transactions          |  Reports
 :-------------------------:|:-------------------------:|:-------------------------:
-![Accounts List](docs/images/v2.0.0_home.png)  |  ![Transactions List](docs/images/v2.0.0_transactions_list.png) |  ![Reports](docs/images/v2.0.0_reports.png)
+![Accounts List](docs/images/v2.0.0_home.png) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgnucash-android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgnucash-android?ref=badge_shield)
+ |  ![Transactions List](docs/images/v2.0.0_transactions_list.png) |  ![Reports](docs/images/v2.0.0_reports.png)
 
 The application supports Android 4.4 KitKat (API level 19) and above.
 
@@ -110,3 +111,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgnucash-android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgnucash-android?ref=badge_large)
